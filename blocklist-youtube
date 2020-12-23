@@ -1,5 +1,29 @@
 #This blocklist helps Pi-hole's admin restrict access to Google and its domains.
 #Last updated: 23-12-2020
+#
+manifest.googlevideo.com
+#
+r1---sn-uxaxoxu-cg0k.googlevideo.com
+r2---sn-uxaxoxu-cg0k.googlevideo.com
+r3---sn-uxaxoxu-cg0k.googlevideo.com
+r4---sn-uxaxoxu-cg0k.googlevideo.com
+r5---sn-uxaxoxu-cg0k.googlevideo.com
+r6---sn-uxaxoxu-cg0k.googlevideo.com
+r7---sn-uxaxoxu-cg0k.googlevideo.com
+r8---sn-uxaxoxu-cg0k.googlevideo.com
+r9---sn-uxaxoxu-cg0k.googlevideo.com
+#
+r1---sn-uxaxoxu-cg0r.googlevideo.com
+r2---sn-uxaxoxu-cg0r.googlevideo.com
+r3---sn-uxaxoxu-cg0r.googlevideo.com
+r4---sn-uxaxoxu-cg0r.googlevideo.com
+r5---sn-uxaxoxu-cg0r.googlevideo.com
+r6---sn-uxaxoxu-cg0r.googlevideo.com
+r7---sn-uxaxoxu-cg0r.googlevideo.com
+r8---sn-uxaxoxu-cg0r.googlevideo.com
+r9---sn-uxaxoxu-cg0r.googlevideo.com
+#
+r1---sn-vgqskn7e.googlevideo.com
 # Youtube
 .youtubeeducation.com
 accounts.youtube.com
