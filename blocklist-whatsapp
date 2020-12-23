@@ -1,0 +1,10 @@
+#This blocklist helps Pi-hole's admin restrict access to Whatsapp
+#Last updated: 23-12-2020
+0.0.0.0 whatsapp.com
+0.0.0.0 whatsapp.net
+0.0.0.0 web.whatsapp.com
+0.0.0.0 api.whatsapp.com
+0.0.0.0 chat.whatsapp.com
+0.0.0.0 faq.whatsapp.com
+0.0.0.0 blog.whatsapp.com
+0.0.0.0 translate.whatsapp.com
