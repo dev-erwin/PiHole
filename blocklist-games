@@ -1,0 +1,11 @@
+# Blocklist to help PiHole block certain games
+# Last updated 16-01-2021
+#Brawlstar
+0.0.0.0 inbox.brawlstars.com
+0.0.0.0 game.brawlstarsgame.com
+#SuperCell
+0.0.0.0 social.id.supercell.com
+0.0.0.0 supercell.helpshift.com
+#PokemonGo
+0.0.0.0 niantic.helpshift.com
+0.0.0.0 pgorelease.nianticlabs.com
