@@ -1,3 +1,6 @@
+#This blocklist helps Pi-hole's block youtube adds
+#Last updated: 16-01-2021
+#
 0.0.0.0 r1---sn-n4v7knlz.googlevideo.com
 0.0.0.0 r2---sn-n4v7knlz.googlevideo.com
 0.0.0.0 r3---sn-n4v7knlz.googlevideo.com
