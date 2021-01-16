@@ -1,3 +1,6 @@
+#This blocklist helps Pi-hole's admin restrict access to Snapchat
+#Last updated: 16-01-2021
+
 # Snapchat Chat
 0.0.0.0 chat-gateway-prod.chat.snapchat.com
 
