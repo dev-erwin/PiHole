@@ -1,6 +1,6 @@
   
 #This blocklist helps Pi-hole's admin restrict access to Tiktok
-#Last updated: 24-12-2020
+#Last updated: 08-02-2021
 0.0.0.0 tiktok.com
 0.0.0.0 www.tiktok.com
 0.0.0.0 ads.tiktok.com
