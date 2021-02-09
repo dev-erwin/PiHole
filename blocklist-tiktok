@@ -1,6 +1,5 @@
   
 #This blocklist helps Pi-hole's admin restrict access to Tiktok
-#Last updated: 08-02-2021
 0.0.0.0 tiktok.com
 0.0.0.0 www.tiktok.com
 0.0.0.0 ads.tiktok.com
@@ -3630,3 +3629,21 @@
 0.0.0.0 lf.snssdk.com.xi.zwtianshangm.com
 0.0.0.0 lf-hl.snssdk.com.xi.zwtianshangm.com
 0.0.0.0 mon.snssdk.com.xi.zwtianshangm.com
+0.0.0.0 hotapi-va.tiktokv.com
+0.0.0.0 pull-hls-w5-va01.tiktokcdn.com
+0.0.0.0 pull-hls-f16.tiktokcdn-in.com
+0.0.0.0 pull-q5-va01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16.tiktokcdn-in.com
+0.0.0.0 pull-w5-sg01.tiktokcdn.com
+0.0.0.0 pull-f5.tiktokcdn-in.com	
+0.0.0.0 pull-hls-q5-va01.tiktokcdn.com
+0.0.0.0 pull-hls-w5-sg01.tiktokcdn.com
+0.0.0.0 pull-q5-sg01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-va01.tiktokcdn.com
+0.0.0.0 pull-f5-va01.tiktokcdn.com
+0.0.0.0 pull-f5-gl01.tiktokcdn.com
+0.0.0.0 pull-hls-q5-sg01.tiktokcdn.com
+0.0.0.0 pull-w5-va01.tiktokcdn.com
+0.0.0.0 pull-hls-f16-va01.tiktokcdn.com
+0.0.0.0 xlog16-normal-c-useast1a.tiktokv.com
+0.0.0.0 pull-hls-f16-gl01.tiktokcdn.com
