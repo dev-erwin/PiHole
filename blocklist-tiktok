@@ -30,6 +30,11 @@
 0.0.0.0 log2.musical.ly
 0.0.0.0 api2-21-h2.musical.ly
 0.0.0.0 musically.ly
+0.0.0.0 mssdk-va.tiktokv.com
+0.0.0.0 tnc16-platform-useast1a.tiktokv.com
+0.0.0.0 pull-f5-gcp01.tiktokcdn.com
+0.0.0.0 pull-hls-f16-gcp01.tiktokcdn.com
+0.0.0.0 pull-cmaf-f16-gcp01.tiktokcdn.com
 #### Other list
 0.0.0.0 bytedance.akadns.net
 0.0.0.0 dsa-video.traffic.bytedance.akadns.net
