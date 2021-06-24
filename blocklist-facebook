@@ -27,3 +27,4 @@
 0.0.0.0 ads.facebook.com
 0.0.0.0 edge-mqtt.facebook.com
 0.0.0.0 fupload.facebook.com
+0.0.0.0 mqtt-mini.facebook.com
